@@ -1,0 +1,26 @@
+d:\(documents)\documents\visual studio 2012\Projects\WentTours\WentTours\bin\Debug\WentTours.dll.config
+d:\(documents)\documents\visual studio 2012\Projects\WentTours\WentTours\bin\Debug\WentTours.dll
+d:\(documents)\documents\visual studio 2012\Projects\WentTours\WentTours\bin\Debug\WentTours.pdb
+d:\(documents)\documents\visual studio 2012\Projects\WentTours\WentTours\bin\Debug\nunit.framework.dll
+d:\(documents)\documents\visual studio 2012\Projects\WentTours\WentTours\bin\Debug\TechTalk.SpecFlow.dll
+d:\(documents)\documents\visual studio 2012\Projects\WentTours\WentTours\bin\Debug\WebDriver.dll
+d:\(documents)\documents\visual studio 2012\Projects\WentTours\WentTours\bin\Debug\WebDriver.Support.dll
+d:\(documents)\documents\visual studio 2012\Projects\WentTours\WentTours\bin\Debug\nunit.framework.xml
+d:\(documents)\documents\visual studio 2012\Projects\WentTours\WentTours\bin\Debug\WebDriver.xml
+d:\(documents)\documents\visual studio 2012\Projects\WentTours\WentTours\bin\Debug\WebDriver.Support.xml
+d:\(documents)\documents\visual studio 2012\Projects\WentTours\WentTours\obj\Debug\WentTours.csprojResolveAssemblyReference.cache
+d:\(documents)\documents\visual studio 2012\Projects\WentTours\WentTours\obj\Debug\WentTours.dll
+d:\(documents)\documents\visual studio 2012\Projects\WentTours\WentTours\obj\Debug\WentTours.pdb
+D:\Proiecte_Git\WentTours\WentTours\bin\Debug\WentTours.dll.config
+D:\Proiecte_Git\WentTours\WentTours\bin\Debug\WentTours.dll
+D:\Proiecte_Git\WentTours\WentTours\bin\Debug\WentTours.pdb
+D:\Proiecte_Git\WentTours\WentTours\bin\Debug\nunit.framework.dll
+D:\Proiecte_Git\WentTours\WentTours\bin\Debug\TechTalk.SpecFlow.dll
+D:\Proiecte_Git\WentTours\WentTours\bin\Debug\WebDriver.dll
+D:\Proiecte_Git\WentTours\WentTours\bin\Debug\WebDriver.Support.dll
+D:\Proiecte_Git\WentTours\WentTours\bin\Debug\nunit.framework.xml
+D:\Proiecte_Git\WentTours\WentTours\bin\Debug\WebDriver.xml
+D:\Proiecte_Git\WentTours\WentTours\bin\Debug\WebDriver.Support.xml
+D:\Proiecte_Git\WentTours\WentTours\obj\Debug\WentTours.csprojResolveAssemblyReference.cache
+D:\Proiecte_Git\WentTours\WentTours\obj\Debug\WentTours.dll
+D:\Proiecte_Git\WentTours\WentTours\obj\Debug\WentTours.pdb
