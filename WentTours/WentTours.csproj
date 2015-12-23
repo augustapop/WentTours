@@ -67,6 +67,7 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="Browser.cs" />
     <Compile Include="TestWithFirefoxDriver.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TestWithChromeDriver.cs" />
