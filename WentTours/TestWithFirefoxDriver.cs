@@ -11,7 +11,7 @@ using System.Drawing.Imaging;
 namespace WentTours
 {
     [TestClass]
-    public class UnitTest1
+    public class TestWithFirefoxDriver
     {              
         
         private string baseURL="http://newtours.demoaut.com/";
@@ -19,7 +19,7 @@ namespace WentTours
               
 
         [TestMethod]
-        public void TestMethod1()
+        public void TestFirefoxDriver()
         {
             var driver = new FirefoxDriver();
             driver.Manage().Timeouts().ImplicitlyWait(TimeSpan.FromSeconds(TimeOut));
@@ -81,10 +81,8 @@ namespace WentTours
             //img[contains(@src,'/img/logo/new_logo.jpg')]
             Thread.Sleep(4000);
             driver.GetScreenshot().SaveAsFile(@"Tourist1.png", ImageFormat.Png);
-            driver.Navigate().GoToUrl(baseURL);           
-
-        }
-
-       
+            driver.Navigate().GoToUrl(baseURL);
+            driver.Close();
+        }       
     }
 }
