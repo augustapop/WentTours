@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Express 2012 for Windows Desktop
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WentTours", "WentTours\WentTours.csproj", "{7DF83013-841B-44A7-825F-6ADE52FD7898}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WentTours-01", "WentTours\WentTours-01.csproj", "{7DF83013-841B-44A7-825F-6ADE52FD7898}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

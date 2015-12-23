@@ -1,0 +1,13 @@
+D:\Proiecte_Git\WentTours - Rev01\WentTours\bin\Debug\WentTours.dll.config
+D:\Proiecte_Git\WentTours - Rev01\WentTours\bin\Debug\WentTours.dll
+D:\Proiecte_Git\WentTours - Rev01\WentTours\bin\Debug\WentTours.pdb
+D:\Proiecte_Git\WentTours - Rev01\WentTours\bin\Debug\nunit.framework.dll
+D:\Proiecte_Git\WentTours - Rev01\WentTours\bin\Debug\TechTalk.SpecFlow.dll
+D:\Proiecte_Git\WentTours - Rev01\WentTours\bin\Debug\WebDriver.dll
+D:\Proiecte_Git\WentTours - Rev01\WentTours\bin\Debug\WebDriver.Support.dll
+D:\Proiecte_Git\WentTours - Rev01\WentTours\bin\Debug\nunit.framework.xml
+D:\Proiecte_Git\WentTours - Rev01\WentTours\bin\Debug\WebDriver.xml
+D:\Proiecte_Git\WentTours - Rev01\WentTours\bin\Debug\WebDriver.Support.xml
+D:\Proiecte_Git\WentTours - Rev01\WentTours\obj\Debug\WentTours-01.csprojResolveAssemblyReference.cache
+D:\Proiecte_Git\WentTours - Rev01\WentTours\obj\Debug\WentTours.dll
+D:\Proiecte_Git\WentTours - Rev01\WentTours\obj\Debug\WentTours.pdb
